@@ -13,6 +13,10 @@ clone the repository from GitHub: git clone https://github.com/KaifMansoori/Inve
 
 https://investment-calculator-kaif.netlify.app/
 
+
+![image](https://github.com/user-attachments/assets/f26d54b4-9b0d-4914-98c1-1ce4d500b8f0)
+
+
 ## 🚀 About Me
 Hello world👋 I'm Mohammad Kaif
 
