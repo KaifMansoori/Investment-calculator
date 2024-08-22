@@ -1,7 +1,7 @@
 
 # Loan Calculator
 
-he Loan Calculator App is a user-friendly financial tool designed to help individuals estimate their loan payments and analyze loan results. The app features a clean, modern interface built with React and Material-UI (MUI)
+Loan Calculator App is a user-friendly financial tool designed to help individuals estimate their loan payments and analyze loan results. The app features a clean, modern interface built with React and Material-UI (MUI)
 ## Installation
 
 Install my-project with npm
