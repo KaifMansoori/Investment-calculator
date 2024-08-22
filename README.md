@@ -1,23 +1,18 @@
-
-# Loan Calculator
-
-Loan Calculator App is a user-friendly financial tool designed to help individuals estimate their loan payments and analyze loan results. The app features a clean, modern interface built with React and Material-UI (MUI)
-## Installation
-
-Install my-project with npm
+## Install my-project with npm
 
 ```bash
-  cd loan-calculator
+  cd investment-calculator
   npm install
   npm run dev
 ```
 
 ## Clone the Repository
-clone the repository from GitHub: git clone https://github.com/KaifMansoori/loan-calculator.git
+clone the repository from GitHub: git clone https://github.com/KaifMansoori/Investment-calculator.git
  
 ## Demo
 
-https://loan-calculator-kaif.netlify.app/
+https://investment-calculator-kaif.netlify.app/
+
 ## 🚀 About Me
 Hello world👋 I'm Mohammad Kaif
 
